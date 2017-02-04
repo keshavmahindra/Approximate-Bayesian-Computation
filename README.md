@@ -1,2 +1,2 @@
 # Approximate-Bayesian-Computation
-Code for implementing ABC in R
+Code for implementing Approximate Bayesian Computation in R
